@@ -10,17 +10,17 @@ const CONFIG = {
   ],
 
   // 英雄区(首页顶部大卡)
-  HEO_HERO_TITLE_1: 'AI工具',
-  HEO_HERO_TITLE_2: '市面上绝大部分AI',
+  HEO_HERO_TITLE_1: '分享编程',
+  HEO_HERO_TITLE_2: '为了更好的明天',
   HEO_HERO_TITLE_3: 'QIGE.STORE',
-  HEO_HERO_TITLE_4: '热爱生活',
-  HEO_HERO_TITLE_5: '故事不怎么感人  讲故事的人却一直掉眼泪',
+  HEO_HERO_TITLE_4: '林玲柒',
+  HEO_HERO_TITLE_5: '故事不怎么感人                                  讲故事的人却一直掉眼泪',
   HEO_HERO_TITLE_LINK: 'https://www.qige.store/article/%E4%B8%BA%E4%BA%86%E6%9D%8E.html',
 
   // 英雄区显示三个置顶分类
-  HEO_HERO_CATEGORY_1: { title: '必看文章', url: '/tag/必看文章' },
-  HEO_HERO_CATEGORY_2: { title: '热门AI', url: '/tag/热门AI' },
-  HEO_HERO_CATEGORY_3: { title: '实用教程', url: '/tag/实用教程' },
+  HEO_HERO_CATEGORY_1: { title: '必看文章', url: 'https://www.qige.store/category/%E7%9F%A5%E8%A1%8C%E5%90%88%E4%B8%80' },
+  HEO_HERO_CATEGORY_2: { title: '热门AI', url: 'https://www.qige.store/category/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB' },
+  HEO_HERO_CATEGORY_3: { title: '实用教程', url: 'https://www.qige.store/category/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB' },
 
   // 英雄区右侧推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章
   HEO_HERO_RECOMMEND_POST_TAG: '推荐',
